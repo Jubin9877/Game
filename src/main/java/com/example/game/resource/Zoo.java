@@ -20,9 +20,7 @@ public class Zoo {
 //		moveAnimals(sparrow1);
 //		moveAnimals(fish1);
 		
-		Flyable flyingBird = new Sparrow(1,"m",4);
-		
-				
+		Flyable flyingBird = new Sparrow(1,"m",4);				
 	}
 	
 	public static void  moveAnimals(Animal animal) {
